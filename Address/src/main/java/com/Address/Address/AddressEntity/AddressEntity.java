@@ -13,8 +13,8 @@ public class AddressEntity {
 
     @Id
     @GeneratedValue(strategy=jakarta.persistence.GenerationType.IDENTITY)
-    @Column(name="add_Id")
-    private int add_Id;
+    @Column(name="address_id")
+    private int addressId;
     @Column(name="lane_1")
     private String lane_1;
     @Column(name="lane_2")
@@ -24,8 +24,8 @@ public class AddressEntity {
     @Column(name="zip")
     private int zip;
     
-    public int getAdd_Id() {
-        return add_Id;
+    public int getAddressId() {
+        return addressId;
     }
     public String getLane_1() {
         return lane_1;
@@ -40,8 +40,8 @@ public class AddressEntity {
         return zip;
     }
 
-    public void setAdd_Id(int add_Id) {
-        this.add_Id = add_Id;
+    public void setAddressId(int addressId) {
+        this.addressId = addressId;
     }
 
     public void setLane_1(String lane_1) {

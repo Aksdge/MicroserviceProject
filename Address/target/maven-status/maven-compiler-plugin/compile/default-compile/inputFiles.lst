@@ -1,6 +1,8 @@
-C:\javaPracties\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressRepo\AddressRepo.java
-C:\javaPracties\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressEntity\AddressEntity.java
-C:\javaPracties\MicroserviceProject\Address\src\main\java\com\Address\AddressResponse.java
-C:\javaPracties\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressApplication.java
-C:\javaPracties\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressService\AddressService.java
-C:\javaPracties\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressController\AddressController.java
+C:\MicroserviceProject\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressService\AddressService.java
+C:\MicroserviceProject\MicroserviceProject\Address\src\main\java\com\Address\Address\config\CorsConfig.java
+C:\MicroserviceProject\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressRepo\AddressRepo.java
+C:\MicroserviceProject\MicroserviceProject\Address\src\main\java\com\Address\AddressRequest.java
+C:\MicroserviceProject\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressApplication.java
+C:\MicroserviceProject\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressController\AddressController.java
+C:\MicroserviceProject\MicroserviceProject\Address\src\main\java\com\Address\Address\AddressEntity\AddressEntity.java
+C:\MicroserviceProject\MicroserviceProject\Address\src\main\java\com\Address\AddressResponse.java

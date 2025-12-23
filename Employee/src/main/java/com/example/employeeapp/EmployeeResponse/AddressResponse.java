@@ -2,19 +2,19 @@ package com.example.employeeapp.EmployeeResponse;
 
 public class AddressResponse {
     
-    private int add_Id;
+    private int addressId;
     private String lane_1;
     private String lane_2;
     private String state;
     private int zip;
     
     // Getters and Setters
-    public int getAdd_Id() {
-        return add_Id;
+    public int getAddressId() {
+        return addressId;
     }
     
-    public void setAdd_Id(int add_Id) {
-        this.add_Id = add_Id;
+    public void setAddressId(int addressId) {
+        this.addressId = addressId;
     }
     
     public String getLane_1() {

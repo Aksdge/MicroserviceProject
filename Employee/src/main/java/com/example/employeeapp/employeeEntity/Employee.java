@@ -11,7 +11,7 @@ public class Employee {
 
     @Id
     @GeneratedValue(strategy=jakarta.persistence.GenerationType.IDENTITY)
-    @Column(name="id")
+    @Column(name="employee_id")
     private int id;
 
     @Column(name="name")
